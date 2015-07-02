@@ -7,7 +7,7 @@ nav: disc
 ##Discussion
 Discussion will be used to introduce lab and review important concepts from lecture.  Be sure to attend.
 
-###Discussion 1 - Modelsim & Tool Setup / Verilog Review
+###Discussion 1 - Modelsim & Tool Setup / Verilog Review and Lab 1
 - ModelSim Installation -- See [EE 457 DEN site](https://courses.uscden.net/d2l/home)
     - Follow the instructions on the EE 457 DEN site under the *Lab Setup* module. You will need the username/password credentials on that site to download Modelsim.
     - If you do not have access to a PC, you should consider one of the options below:
@@ -24,10 +24,14 @@ Discussion will be used to introduce lab and review important concepts from lect
        
 - [Verilog Review](http://ee.usc.edu/%7Eredekopp/ee457/slides/EE457Unit1b_VerilogDiscussion.pdf)
 
-###Discussion 2 - Lab 1 (Min/Max Finder)
+#### Lab 1 Assignment
 
 [See Lab 1 page]( {{ site.url }}/assignments/lab1.html)
 
-###Discussion 3 - Lab 2 (FIFO Lab)
+###Discussion 2 - Lab 2 (FIFO Lab)
 
 [See Lab 2 page]( {{ site.url }}/assignments/lab2.html)
+
+###Discussion 3 - Lab 3 (Pipelining Lab)
+
+[See Lab 3 page]( {{ site.url }}/assignments/lab3.html)

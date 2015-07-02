@@ -2,7 +2,7 @@ index: 'Home'
 people: 'People'
 syllabus: 
   label: 'Syllabus'
-  link: 'http://ee.usc.edu/~redekopp/ee457/Syllabus_su15a.pdf'
+  link: 'http://ee.usc.edu/~redekopp/ee457/Syllabus_su15b.pdf'
   external: true
 assignments:
   label: 'Assignments'
@@ -12,7 +12,7 @@ disc: 'Discussion/Labs'
 tools: 'Tools & Links'
 piazza:
   label: 'Piazza Q&A Board'
-  link: 'https://piazza.com/class/i9pwna063rh73z'
+  link: 'https://piazza.com/class/ibmed95s5e02fs'
   external: true
 densite:
   label: 'DEN Site / Grades'
